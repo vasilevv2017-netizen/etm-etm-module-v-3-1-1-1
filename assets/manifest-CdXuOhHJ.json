@@ -1,7 +1,6 @@
-
 {
-  "short_name": "ETM 3 Gen",
-  "name": "ETM Module 3 Gen CAN Interface",
+  "short_name": "ETM v3.1.1.16",
+  "name": "ETM Module v3.1.1.16 CAN",
   "icons": [
     {
       "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
