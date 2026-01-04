@@ -1,0 +1,18 @@
+
+{
+  "short_name": "ETM 3 Gen",
+  "name": "ETM Module 3 Gen CAN Interface",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#030712",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#dc2626"
+}

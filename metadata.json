@@ -1,0 +1,10 @@
+{
+  "name": "ETM Module v3.1",
+  "description": "Professional CAN Bus analysis tool for mobile devices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "bluetooth",
+    "geolocation"
+  ]
+}
