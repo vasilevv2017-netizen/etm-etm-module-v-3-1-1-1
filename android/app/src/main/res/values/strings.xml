@@ -1,8 +1,0 @@
-
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">ETM Module 3 Gen</string>
-    <string name="title_activity_main">ETM Module 3 Gen</string>
-    <string name="package_name">com.etm.module3gen</string>
-    <string name="custom_url_scheme">com.etm.module3gen</string>
-</resources>
